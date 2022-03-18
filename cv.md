@@ -21,12 +21,12 @@
 * JavaScript
 * React(I'm new here)
 * Git
-* HTML/CSS and its framework Bootstrap
+* HTML/CSS as well as some of their frameworks and libraries
 Extra skills from university: C/C++, Java, PHP
 
 ## Code examples:
 ***
-*//to be filled, now you can check my GitHub w/projects:* [@kriforce](https://github.com/Kriforce)
+*//to be filled, now you can check my GitHub projects:* [@kriforce](https://github.com/Kriforce)
 
 ## Work experience:
 ***
