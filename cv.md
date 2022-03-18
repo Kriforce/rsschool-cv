@@ -1,7 +1,7 @@
-# [rsschool-cv](#)
-****
+# rsschool-cv
+***
 
-# Tunnis Kristaps
+## Tunnis Kristaps
 ***
 
 ## My contacts:
