@@ -1,16 +1,15 @@
 # Kristaps Tunnis
 
 ## About me
-### I'm a student. I'm 21 years old. I love programming. I started this relatively recently. For a very long time I couldn't find
-### a programming language that I would fall in love. And surprisingly became JS. And now, with fire in my eyes, I am ready to plunge 
-### into the world of programming with my head.
+   I'm a student. I'm 21 years old. I love programming. I started this relatively recently. For a very long time I couldn't find a programming language that 
+   I would fall in love. And surprisingly became JS. And now, with fire in my eyes, I am ready to plunge into the world of programming with my head.
 
 ***
 
 ## Contacts:
 * +375255451321 (My phone)
 * @Kriforce (GitHub account and nickname in Discord)
-* @kriforce7@gmail.com (google email)
+* kriforce7@gmail.com (google email)
 * @ktunnis (telegram)
 
 ***
@@ -29,9 +28,9 @@
 ***
 
 ## Education:
-> 1.  Secondary School №19 in Gomel (2010-2017)
-> 2.  Gomel city lyceum №1 (2017-2019)
-> 3.  Francisk Skorina Gomel State University
+ 1.  Secondary School №19 in Gomel (2010-2017)
+ 2.  Gomel city lyceum №1 (2017-2019)
+ 3.  Francisk Skorina Gomel State University
 >> * Faculty of Physics and IT
 >>> * Computer physics
 
