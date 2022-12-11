@@ -30,9 +30,7 @@
 ## Education:
  1.  Secondary School №19 in Gomel (2010-2017)
  2.  Gomel city lyceum №1 (2017-2019)
- 3.  Francisk Skorina Gomel State University
-   * Faculty of Physics and IT
-      * Computer physics
+ 3.  Francisk Skorina Gomel State University, faculty of Physics and IT, computer physics.
 
 ***
 
